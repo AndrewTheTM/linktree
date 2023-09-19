@@ -68,6 +68,7 @@ body {
     text-decoration: none;
     /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
     -webkit-tap-highlight-color: transparent;
+    height: 30px;
 }
 
 @media (hover: hover) {
